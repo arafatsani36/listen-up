@@ -1,0 +1,15 @@
+.LiftSideBar{
+    background-color: black;
+    height: 100%;
+}
+.menuHeader{
+   /* background-color: black; */
+   color: aliceblue;
+   border: 2px solid rgb(172, 201, 242) ;
+   border-radius: 5px;
+}
+.menuHeaderIcon{
+    background: rgba(118, 28, 197, 1);
+}
+
+
