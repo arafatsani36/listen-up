@@ -1,0 +1,18 @@
+.LiftSideBar{
+    /* background-color: rgb(0, 0, 0); */
+    /* background: linear-gradient(360deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px); */
+    background-color: rgba(255, 255, 255, .1);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, .2);
+}
+.menuHeader{
+   /* background-color: black; */
+   color: aliceblue;
+   border: 2px solid rgb(172, 201, 242) ;
+   border-radius: 5px;
+}
+.menuHeaderIcon{
+    background: rgba(118, 28, 197, 1);
+}
+
+

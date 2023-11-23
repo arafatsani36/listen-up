@@ -1,0 +1,31 @@
+.banner{
+     background-color:#0f35626e;
+     margin: 10px; 
+    
+}
+.bannerContuner{
+    background-image: url('../../../asserts/banner/bannerImg.png');
+   
+    height: 300px; 
+    background-repeat: no-repeat;
+    /* background-position: bottom; */
+     background-size: cover; 
+}
+.btn1{
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    transition: all 0.3s ease-in;
+}
+.btn1:hover{
+    border: 1px solid rgba(0, 110, 255, 0.899);
+    background-color: rgba(0, 110, 255, 0.899);
+}
+.btn2{
+    border: 1px solid rgba(0, 110, 255, 0.899);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 110, 255, 0.899);
+}

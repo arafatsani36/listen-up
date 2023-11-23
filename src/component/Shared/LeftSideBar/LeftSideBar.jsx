@@ -13,7 +13,7 @@ const LeftSideBar = () => {
         <div className='LiftSideBar md:p-[15px]'>
             <div className='LiftSideBarContainer'>
                 {/* menu start  */}
-                <div className='mt-[20px]'>
+                <div className='mt-[40px]'>
                     <div className='menuHeader  w-[150px]'>
                         <h2 className='mb-[4px] py-[5px]'><MdHome className='menuHeaderIcon md:w-[20px] md:h-[20px] ml-[5px] text-6xl  rounded-full p-[5px] mr-[10px]'/> Menu</h2>
                     </div>
