@@ -1,5 +1,6 @@
 import Banner from '@/component/Home/Banner/Banner';
 import FavouriteArtists from '@/component/Home/FavouriteArtists/FavouriteArtists';
+import Recommended from '@/component/Home/Recommended/Recommended';
 import Header from '@/component/Shared/Header/Header';
 import LeftSideBar from '@/component/Shared/LeftSideBar/LeftSideBar';
 import React from 'react';
@@ -15,6 +16,7 @@ const page = () => {
         <Header></Header>
         <Banner></Banner>
         <FavouriteArtists></FavouriteArtists>
+        <Recommended></Recommended>
       </div>
       <div className='w-[20%]'>
         sidebar
